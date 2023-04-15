@@ -1,13 +1,16 @@
 <footer class="footer">
 
      
-
-      <div class="share">
-        <a href="https://m.facebook.com/profile.php?id=100087201817267&lst=100002337313990%3A100087201817267%3A1667376622&eav=AfbprbUS_6WQu9_7yTlMeDGoPlGTSPF0xsmZhOmFfd_G2U13RezFke2CYwKcVvblgNY&paipv=0" class="btn">facebook</a>
+<div class="credit">
+      <a  href="https://m.facebook.com/profile.php?id=100087201817267&lst=100002337313990%3A100087201817267%3A1667376622&eav=AfbprbUS_6WQu9_7yTlMeDGoPlGTSPF0xsmZhOmFfd_G2U13RezFke2CYwKcVvblgNY&paipv=0" class="btn">facebook</a>
         <a href="https://www.instagram.com/kuekoe.ofc/?hl=id" class="btn">instagram</a>
+        <div > Created by <span style="font-family: 'Brush Script MT', Cursive; font-size: 150% ">KueKoe Bakery</span> | KueKoe Siap Mendampingi Pestamu
+     
       </div> 
+    
 
-   <div class="credit"> Created by <span style="font-family: 'Brush Script MT', Cursive; font-size: 150% ">KueKoe Bakery</span> | KueKoe Siap Mendampingi Pestamu</div> 
+   
+</div> 
 
   
    
